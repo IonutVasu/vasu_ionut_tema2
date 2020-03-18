@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tema2</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="mark">Mark</string>
+    <string name="first_and_last_name">First and Last Name</string>
+</resources>
